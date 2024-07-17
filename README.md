@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<!--
-**aishwarya30998/aishwarya30998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
--->
+[![MasterHead](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI_20230215_new%20module_1200x580.jpg)](shivanampalli@gmail.com)
+
+<h1 align="center">Hi 👋, I'm Shiva Kumar Nampalli</h1>
+<h3 align="center">Unleashing possibilities through AI and ML – where curiosity meets innovation</h3>
 
 - 🔭 I’m currently working on integrating generative AI models into enterprise applications.
 - 🌱 I’m currently learning advanced prompt engineering techniques.
