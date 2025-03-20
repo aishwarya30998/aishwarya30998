@@ -8,15 +8,16 @@
 - 🔭 I’m currently working on integrating generative AI models into enterprise applications.
 - 🌱 I’m currently learning advanced prompt engineering techniques.
 - 👯 I’m looking to collaborate on innovative AI projects.
-- 💬 Ask me about AI, machine learning, and Salesforce development.
+- 💬 Ask me about AI, machine learning, Data Engineering, Web development and Salesforce development.
 - ⚡ Fun fact ⚡Your brain is constantly eating itself.
 
-I'm an AI enthusiast and software engineer with 3 years of experience in software development and a Master's degree in Artificial Intelligence. I'm passionate about integrating AI into innovative projects and collaborating with cross-functional teams to drive impactful solutions.
+I'm an AI enthusiast and software engineer with 5 years of experience in software development and a Master's degree in Artificial Intelligence. I'm passionate about integrating AI into innovative projects and collaborating with cross-functional teams to drive impactful solutions.
 
 📚 Education
 - M.S in Artificial Intelligence at University of Bridgeport(Graduated-2024)
 
 📺 Work Experience
+- Data/AI Engineer at Vertex Pharmacuticals
 - Senior Software Engineer - LTI Mindtree
 - Software Engineeer - Mindtree
 
@@ -27,6 +28,7 @@ I am seeking to pivot my career trajectory into the realm of AI. leveraging my e
 - **Developer Tools:** VS Code, Eclipse, Google Cloud Platform, Git
 - **Languages and Frameworks:** Python, Django, React, JavaScript, jQuery, Bootstrap, HTML, CSS, OOP
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, SciPy
+- **ETL:** Snowflake, Data Build Tool,Aws services for Data Engineering
 - **Data Analysis:** Feature Engineering, Feature Selection, Plotting
 - **Machine Learning:** Implementing ML and DL algorithms for classification, regression, clustering, and NLP
 - **Frameworks and Libraries:** scikit-learn, OpenCV, NLTK, PyTorch, TensorFlow, Keras, Hugging Face
@@ -54,7 +56,7 @@ I am seeking to pivot my career trajectory into the realm of AI. leveraging my e
 
 ### 📫 How to reach me:
 - **Email:** [aishwarya.ap998@gmail.com](mailto:aishwarya.ap998@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aishwarya-pentyala/)
-- **GitHub:** [github.com/yourusername](https://github.com/aishwarya30998)
+- **LinkedIn:** [linkedin.com/in/aishwarya-pentyala](https://www.linkedin.com/in/aishwarya-pentyala/)
+- **GitHub:** [github.com/aishwarya30998](https://github.com/aishwarya30998)
 
 Feel free to check out my repositories and connect with me!
